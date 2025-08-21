@@ -1,0 +1,114 @@
+[
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "downPayment": $89.00,
+    "fullPrice": $649.99,
+    "image": "/assets/images/iphone-16-pro.jpg"
+  },
+  {
+    "id": "galaxy-s25-edge",
+    "name": "Galaxy S25 Edge w/ Galaxy AI",
+    "downPayment": $79.00,
+    "fullPrice": $799.00,
+    "image": "/assets/images/galaxy-s25-edge.jpg"
+  },
+  {
+    "id": "galaxy-s25",
+    "name": "Galaxy S25 w/ Galaxy AI",
+    "downPayment": $69.00,
+    "fullPrice": $449.00,
+    "image": "/assets/images/galaxy-s25.jpg"
+  },
+  {
+    "id": "iphone-16e",
+    "name": "iPhone 16e",
+    "downPayment": $59.00,
+    "fullPrice": $349.00,
+    "image": "/assets/images/iphone-16e.jpg"
+  },
+  {
+    "id": "motorola-razr-2025",
+    "name": "Motorola Razr 2025",
+    "downPayment": $49.00,
+    "fullPrice": $199.00,
+    "image": "/assets/images/motorola-razr-2025.jpg"
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "downPayment": $99.00,
+    "fullPrice": $624.99,
+    "image": "/assets/images/iphone-16-pro-max.jpg"
+  },
+  {
+    "id": "galaxy-s25-ultra",
+    "name": "Galaxy S25 Ultra",
+    "downPayment": $79.00,
+    "fullPrice": $749.00,
+    "image": "/assets/images/galaxy-s25-ultra.jpg"
+  },
+  {
+    "id": "galaxy-s25-plus",
+    "name": "Galaxy S25+",
+    "downPayment": $59.00,
+    "fullPrice": $499.00,
+    "image": "/assets/images/galaxy-s25-plus.jpg"
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "downPayment": $78.99,
+    "fullPrice": $625.00,
+    "image": "/assets/images/iphone-16-plus.jpg"
+  },
+  {
+    "id": "google-pixel-9a",
+    "name": "Google Pixel 9a",
+    "downPayment": $49.00,
+    "fullPrice": $199.00,
+    "image": "/assets/images/google-pixel-9a.jpg"
+  },
+  {
+    "id": "google-pixel-9-pro",
+    "name": "Google Pixel 9 Pro",
+    "downPayment": $79.00,
+    "fullPrice": $599.00,
+    "image": "/assets/images/google-pixel-9-pro.jpg"
+  },
+  {
+    "id": "moto-g-power-2025",
+    "name": "Motorola Moto G Power 2025",
+    "downPayment": $29.99,
+    "fullPrice": $99.00,
+    "image": "/assets/images/moto-g-power-2025.jpg"
+  },
+  {
+    "id": "iphone-se-3",
+    "name": "iPhone SE 3rd Generation",
+    "downPayment": $49.00,
+    "fullPrice": $199.00,
+    "image": "/assets/images/iphone-se-3.jpg"
+  },
+  {
+    "id": "galaxy-z-fold6",
+    "name": "Galaxy Z Fold6",
+    "downPayment": $100.00,
+    "fullPrice": $949.00,
+    "image": "/assets/images/galaxy-z-fold6.jpg"
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "downPayment": $64.99,
+    "fullPrice": $399.00,
+    "image": "/assets/images/iphone-15.jpg"
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "downPayment": $59.00,
+    "fullPrice": $299.00,
+    "image": "/assets/images/iphone-14.jpg"
+  }
+]
