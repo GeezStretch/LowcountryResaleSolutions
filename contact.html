@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Contact Support — Lowcountry Resale Solutions</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/" aria-label="Lowcountry Resale Solutions">
+        <span class="logo-mirror">Lowcountry</span><span class="logo-rest">Resale Solutions</span>
+      </a>
+      <nav class="main-nav">
+        <a href="/products.html">Products</a>
+        <a href="/faq.html">FAQ</a>
+        <a href="/contact.html">Contact</a>
+        <a class="cart-btn" href="/cart.html">Cart (<span id="cart-count">0</span>)</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <h1>Contact Support</h1>
+    <p>Need help? Fill out the form below and our team will reply within 24 hours.</p>
+    <form id="contact-form" class="contact-form">
+      <label>Name<input name="name" required></label>
+      <label>Email<input name="email" type="email" required></label>
+      <label>Message<textarea name="message" rows="6" required></textarea></label>
+      <button type="submit" class="cta">Send Message</button>
+    </form>
+    <p class="small">Support: support@lowcountryresalesolutions.org</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>&copy; Lowcountry Resale Solutions</p>
+    </div>
+  </footer>
+
+<script>
+document.getElementById('contact-form').addEventListener('submit', (e) => {
+  e.preventDefault();
+  alert('Thanks — message received. (This demo site does not send email automatically; configure your form action or Netlify Forms.)');
+});
+</script>
+<script src="/assets/site.js"></script>
+</body>
+</html>
