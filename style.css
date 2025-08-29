@@ -1,0 +1,103 @@
+
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: #E20074;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+/* Navigation */
+nav {
+    margin-top: 10px;
+}
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+nav a:hover {
+    color: #000000;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('assets/hero-phone.png') no-repeat center center/cover;
+    color: #fff;
+    padding: 100px 20px;
+    text-align: center;
+}
+.hero h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+.hero .button {
+    background-color: #E20074;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.hero .button:hover {
+    background-color: #c20062;
+}
+
+/* Buttons */
+.button {
+    background-color: #E20074;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.button:hover {
+    background-color: #c20062;
+}
+
+/* Footer */
+footer {
+    background: #111;
+    color: #aaa;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+footer a {
+    color: #E20074;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
